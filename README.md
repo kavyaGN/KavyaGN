@@ -136,10 +136,9 @@ $ git commit -m "Adding awesome tools to my arsenal 🚀"
   
 | 🏆 Project | 🛠️ Tech Stack | 🔗 Links | ✨ Features |
 |------------|---------------|----------|-------------|
-
+| **🛍️ Data Collections** | ![Python](https://img.shields.io/badge/Python-092E20?style=flat&logo=django&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-316192?style=flat&logo=postgresql&logoColor=white) | [![Demo](https://img.shields.io/badge/🔴_Live-Demo-FF4B4B?style=for-the-badge)] [![Code](https://img.shields.io/badge/</›_View-Code-000000?style=for-the-badge)](https://github.com/prasath-m21/django-ecommerce) | Data, Collection |
 | **🌤️ Weather Forecast App** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![API](https://img.shields.io/badge/API-FF6B6B?style=flat) | [![Demo](https://img.shields.io/badge/🔴_Live-Demo-FF4B4B?style=for-the-badge)]( https://kavyagn.github.io/WebApplication/) [![Code](https://img.shields.io/badge/</›_View-Code-000000?style=for-the-badge)]( https://kavyagn.github.io/WebApplication/) | Real-time Data, Responsive UI |
 | **📊 Queue Management System** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Database](https://img.shields.io/badge/Database-4479A1?style=flat) | [![Code](https://img.shields.io/badge/</›_View-Code-000000?style=for-the-badge)](https://github.com/kavyaGN) | Analytics, Optimization |
-| **🛍️ Data Collections** | ![Python](https://img.shields.io/badge/Python-092E20?style=flat&logo=django&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-316192?style=flat&logo=postgresql&logoColor=white) | [![Demo](https://img.shields.io/badge/🔴_Live-Demo-FF4B4B?style=for-the-badge)] [![Code](https://img.shields.io/badge/</›_View-Code-000000?style=for-the-badge)](https://github.com/prasath-m21/django-ecommerce) | Data, Collection |
 
 </div>
 
