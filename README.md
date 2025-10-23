@@ -97,7 +97,7 @@ SELECT * FROM skills WHERE category IN ('Backend', 'Database');
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+ 
 </p>
 
 #### <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="30"> Tools & Technologies
@@ -136,7 +136,7 @@ $ git commit -m "Adding awesome tools to my arsenal 🚀"
   
 | 🏆 Project | 🛠️ Tech Stack | 🔗 Links | ✨ Features |
 |------------|---------------|----------|-------------|
-| **🛍️ E-Commerce Platform** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) | [![Demo](https://img.shields.io/badge/🔴_Live-Demo-FF4B4B?style=for-the-badge)](https://django-ecommerce-8ye1.onrender.com/) [![Code](https://img.shields.io/badge/</›_View-Code-000000?style=for-the-badge)](https://github.com/prasath-m21/django-ecommerce) | Auth, Cart, Payment Integration |
+| **🛍️ Data Collections** | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) | [![Demo](https://img.shields.io/badge/🔴_Live-Demo-FF4B4B?style=for-the-badge)](https://django-ecommerce-8ye1.onrender.com/) [![Code](https://img.shields.io/badge/</›_View-Code-000000?style=for-the-badge)](https://github.com/prasath-m21/django-ecommerce) | Auth, Cart, Payment Integration |
 | **🌤️ Weather Forecast App** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) ![API](https://img.shields.io/badge/API-FF6B6B?style=flat) | [![Demo](https://img.shields.io/badge/🔴_Live-Demo-FF4B4B?style=for-the-badge)]( https://kavyagn.github.io/WebApplication/) [![Code](https://img.shields.io/badge/</›_View-Code-000000?style=for-the-badge)]( https://kavyagn.github.io/WebApplication/) | Real-time Data, Responsive UI |
 | **📊 Queue Management System** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![Database](https://img.shields.io/badge/Database-4479A1?style=flat) | [![Code](https://img.shields.io/badge/</›_View-Code-000000?style=for-the-badge)](https://github.com/prasath-m21) | Analytics, Optimization |
 
@@ -148,14 +148,16 @@ $ git commit -m "Adding awesome tools to my arsenal 🚀"
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="50" align="right">
 
-#### 💼 Intern @ R&M India
-*Sep 2024 - Feb 2025 | Bengaluru*
+#### 💼 Intern @ Bdreamz solutions pvt ltd India
 
-```python
+#### IT Engineer @Wistron Infocomm pvt ltd
+*oct 2020 - Aug 2022 | Bengaluru*
+
+```
 achievements = [
     "🔄 Optimized workflows using Lean methodologies",
-    "🤖 Automated file uploads with Python (70% efficiency gain)",
-    "🧪 Conducted systematic QA testing",
+    "🤖 full stack developer (70% efficiency gain)",
+    "🧪 Maintaining sql database DDL,DML and checking servers",
     "📝 Maintained compliance documentation"
 ]
 
@@ -168,8 +170,6 @@ for achievement in achievements:
 
 ---
 
-
-
 ### 🏅 Achievements & Certifications
 
 <div align="center">
@@ -177,28 +177,14 @@ for achievement in achievements:
 | 🎓 Certification | 🏛️ Institution | 🔥 Status |
 |-----------------|----------------|-----------|
 | Full Stack Development | Besant Technologies | ✅ Completed |
-| Databases and SQL for Data Science | Coursera | ✅ Completed |
 | Prompt Engineering | LinkedIn Learning | ✅ Completed |
-| IoT Fundamentals | Infosys Springboard | ✅ Completed |
+
 
 </div>
 
 ---
 
-### <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="30"> HackerRank Journey
 
-<div align="center">
-  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-  
-  ```python
-  hackerrank_stats = {
-      "problems_solved": "50+",
-      "stars_earned": "⭐⭐⭐",
-      "badges": ["Problem Solving", "Python", "SQL"],
-      "rank": "Rising Star 🌟"
-  }
-  ```
-</div>
 
 > ### 🎯 *"First, solve the problem. Then, write the code."*
 > **- John Johnson**
